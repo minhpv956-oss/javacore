@@ -30,7 +30,7 @@ public class practice_5 {
             try{
                 System.out.println("enter number of weigh:");
                 weigh = sc.nextFloat();
-               if(  )
+               if( weight >=2 && weight <= 100 )
                 break;
 
             }catch(Exception e ){
